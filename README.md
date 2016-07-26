@@ -1,5 +1,5 @@
 # crawler-service
-Parse react virtual DOM and response
+Parse react virtual DOM website and response
 
 ## Install module
 ```bash
